@@ -1,17 +1,5 @@
 # Praktikum Robotika - Modul 3: TurtleBot3 Hardware Bring-Up and Teleoperation
 
-## Identitas Praktikan
-* **Nama** : Adinda Vassya Muzahidin[cite: 2]
-* **NIM** : 25/558105/PA/23459[cite: 2]
-* **Kelas** : ELA[cite: 2]
-* **Dosen Pengampu** : Bakhtiar Alldino Ardi Sumbodo, S.Si., M.Cs[cite: 2]
-* **Asisten Praktikum** : Bagus Ananta Wijaya[cite: 2]
-* **Tanggal** : 15 September 2026[cite: 2]
-* **Laboratorium** : Laboratorium Elektronika Dasar & Instrumentasi Dasar, FMIPA UGM[cite: 2]
-
----
-
-## Deskripsi Singkat
 Repositori ini berisi seluruh luaran dan dokumen praktikum **Modul 3 Robotika** mengenai *bring-up* perangkat keras TurtleBot3 Burger menggunakan ROS 2 Humble dan Docker[cite: 1, 2]. Praktikum ini mencakup konfigurasi jaringan nirkabel multi-mesin (PC-Robot), identifikasi topic/node, uji Quality of Service (QoS), serta pengujian teleoperasi terukur[cite: 1].
 
 ## Tujuan Praktikum
